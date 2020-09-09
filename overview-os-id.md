@@ -2,7 +2,7 @@ Ringkasan sains terbuka Indonesia: pentingnya jurnal OA dalam ekosistem riset In
 ===
 
 Oleh: 
-Dasapta Erwin Irawan, Bambang Priadi, dan [...] penulis akan ditambahkan
+Dasapta Erwin Irawan, Bambang Priadi, dan [...] penulis akan ditambahkan, kami berdua sedang menunggu masukan
 Institut Teknologi Bandung
 
 Keterangan: tulisan ini merupakan artikel pertama dari serial tiga artikel yang akan tayang di The Conversation Indonesia. 
