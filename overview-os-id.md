@@ -14,10 +14,23 @@ Keterangan: tulisan ini merupakan artikel pertama dari serial tiga artikel yang 
 
 # Pembukaan
 
-Jumlah jurnal akses terbuka (_open access_/OA) di Indonesia adalah nomor 1 di dunia, menurut pangkalan data [Directory of Open Access Journal](https://doaj.org/search?source=%7B%22query%22%3A%7B%22filtered%22%3A%7B%22filter%22%3A%7B%22bool%22%3A%7B%22must%22%3A%5B%7B%22term%22%3A%7B%22_type%22%3A%22journal%22%7D%7D%5D%7D%7D%2C%22query%22%3A%7B%22match_all%22%3A%7B%7D%7D%7D%7D%7D). Ada 1715 jurnal OA terbit di Indonesia, di bawahnya adalah Inggris dengan 1655 jurnal dan Brazil dengan 1544 jurnal). Jumlah ini memperlihatkan bahwa Indonesia memiliki tiga posisi penting dalam dunia publikasi akademik:
+Jumlah jurnal akses terbuka (_open access_/OA) di Indonesia adalah nomor 1 di dunia (pada tanggal 07 September 2020), menurut pangkalan data [Directory of Open Access Journal](https://doaj.org/search?source=%7B%22query%22%3A%7B%22filtered%22%3A%7B%22filter%22%3A%7B%22bool%22%3A%7B%22must%22%3A%5B%7B%22term%22%3A%7B%22_type%22%3A%22journal%22%7D%7D%5D%7D%7D%2C%22query%22%3A%7B%22match_all%22%3A%7B%7D%7D%7D%7D%7D). Ada 1715 jurnal OA terbit di Indonesia, di bawahnya adalah Inggris dengan 1655 jurnal dan Brazil dengan 1544 jurnal). Jumlah ini memperlihatkan bahwa Indonesia memiliki tiga posisi penting dalam dunia publikasi akademik:
 
 1. Indonesia sebagai negara dengan kesadaran akses terbuka,
-2. Indonesia sebagai negara dengan kanal publikasi akademik terbuka, 
+
+- Kesadaran akses terbuka ini merupakan salah satu modal utama bagi ekosistem riset, terutama ketika, mitra kita di negara maju memulai budaya publikasinya dengan model berbasis biaya langganan *subscription-based*. Model ini bertahan sangat lama, hingga pada awal tahun 2000an muncul model bisnis open access dengan biaya publikasi (APC - *article processing charge*).
+- Dulu, pada era 1970-an, Indonesia memulai budaya publikasi melalui modus cetak dengan biaya langganan yang biasanya dihitung dari biaya pencetakan. Jadi modus penerbitannya bersifat nirlaba. Walaupun sama-sama dimulai dengan modus berlangganan, tetapi budaya publikasi di negara maju telah lama dikuasai oleh perusahaan penerbitan komersial. Alhasil, biaya berlangganannyapun menjadi sangat mahal, sehingga tidak akan mampu dibayar oleh peneliti secara pribadi. Perguruan tinggi biasanya membeli akses melalui biaya langganan secara paket.
+- Dua poin di atas menurut kami adalah keuntungan bagi Indonesia, ketika keuntungan bukanlah nafas awal dari penerbitan ilmiah.   
+
+2. Indonesia sebagai negara dengan kanal publikasi akademik yang terbuka:
+
+- Akses terbuka adalah awal dari perkembangan ilmu. Inilah cita-cita awal dari gerakan akses terbuka. Ilmu tidak akan berkembang maksimum bila akses dibatasi (_paywalled_). Kalaupun ini terjadi, maka dibutuhkan dana tambahan yang tidak sedikit untuk membuka akses tersebut dalam bentuk biaya berlangganan.
+- Hasil riset terutama yang didanai oleh negara, sudah selayaknya dibuka seluas-luasnya untuk publik. Publik di sini bukan hanya berarti masyarakat peneliti, tetapi juga khalayak umum. Mereka sudah sepatutnya juga diberi akses terhadap hasil riset. Masyarakat awam harus dapat diedukasi dengan berbagai hasil riset tersebut. Dengan jumlah jurnal OA yang sangat banyak, ilmu pengetahuan dari para peneliti Indonesia semestinya dapat dengan leluasa sampai ke tangan publik. 
+- 
+
+
+
+
 3. Indonesia sebagai negara dengan model tata kelola publikasi akademik idaman. 
 
 # Indonesia sebagai negara dengan kesadaran akses terbuka 
