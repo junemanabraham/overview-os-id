@@ -17,46 +17,40 @@ Keterangan: tulisan ini merupakan artikel pertama dari serial tiga artikel yang 
 Jumlah jurnal akses terbuka (_open access_/OA) di Indonesia adalah nomor 1 di dunia (pada tanggal 07 September 2020), menurut pangkalan data [Directory of Open Access Journal](https://doaj.org/search?source=%7B%22query%22%3A%7B%22filtered%22%3A%7B%22filter%22%3A%7B%22bool%22%3A%7B%22must%22%3A%5B%7B%22term%22%3A%7B%22_type%22%3A%22journal%22%7D%7D%5D%7D%7D%2C%22query%22%3A%7B%22match_all%22%3A%7B%7D%7D%7D%7D%7D). Ada 1715 jurnal OA terbit di Indonesia, di bawahnya adalah Inggris dengan 1655 jurnal dan Brazil dengan 1544 jurnal). Jumlah ini memperlihatkan bahwa Indonesia memiliki tiga posisi penting dalam dunia publikasi akademik:
 
 1. Indonesia sebagai negara dengan kesadaran akses terbuka,
-
-- Kesadaran akses terbuka ini merupakan salah satu modal utama bagi ekosistem riset, terutama ketika, mitra kita di negara maju memulai budaya publikasinya dengan model berbasis biaya langganan *subscription-based*. Model ini bertahan sangat lama, hingga pada awal tahun 2000an muncul model bisnis open access dengan biaya publikasi (APC - *article processing charge*).
-- Dulu, pada era 1970-an, Indonesia memulai budaya publikasi melalui modus cetak dengan biaya langganan yang biasanya dihitung dari biaya pencetakan. Jadi modus penerbitannya bersifat nirlaba. Walaupun sama-sama dimulai dengan modus berlangganan, tetapi budaya publikasi di negara maju telah lama dikuasai oleh perusahaan penerbitan komersial. Alhasil, biaya berlangganannyapun menjadi sangat mahal, sehingga tidak akan mampu dibayar oleh peneliti secara pribadi. Perguruan tinggi biasanya membeli akses melalui biaya langganan secara paket.
-- Dua poin di atas menurut kami adalah keuntungan bagi Indonesia, ketika keuntungan bukanlah nafas awal dari penerbitan ilmiah.   
-
-2. Indonesia sebagai negara dengan kanal publikasi akademik yang terbuka:
-
-- Akses terbuka adalah awal dari perkembangan ilmu. Inilah cita-cita awal dari gerakan akses terbuka. Ilmu tidak akan berkembang maksimum bila akses dibatasi (_paywalled_). Kalaupun ini terjadi, maka dibutuhkan dana tambahan yang tidak sedikit untuk membuka akses tersebut dalam bentuk biaya berlangganan.
-- Hasil riset terutama yang didanai oleh negara, sudah selayaknya dibuka seluas-luasnya untuk publik. Publik di sini bukan hanya berarti masyarakat peneliti, tetapi juga khalayak umum. Mereka sudah sepatutnya juga diberi akses terhadap hasil riset. Masyarakat awam harus dapat diedukasi dengan berbagai hasil riset tersebut. Dengan jumlah jurnal OA yang sangat banyak, ilmu pengetahuan dari para peneliti Indonesia semestinya dapat dengan leluasa sampai ke tangan publik. 
-- 
-
-
-
-
+2. Indonesia sebagai negara dengan kanal publikasi akademik yang terbuka,
 3. Indonesia sebagai negara dengan model tata kelola publikasi akademik idaman. 
+
 
 # Indonesia sebagai negara dengan kesadaran akses terbuka 
 
-Akses terbuka adalah pondasi pengembangan ilmu pengetahuan.  
+`Catatan: insert referensi UU sisristek, semangat Pancasila dan UUD1945, demokratisasi pengetahuan`
 
-- akses terbuka sebagai pendobrak penghalang
-- akses terbuka sebagai pendorong inovasi
-- akses terbuka sebagai pelestari pengetahuan 
+Kesadaran akses terbuka ini merupakan salah satu modal utama bagi ekosistem riset, terutama ketika, mitra kita di negara maju memulai budaya publikasinya dengan model berbasis biaya langganan *subscription-based*. Model ini bertahan sangat lama, hingga pada awal tahun 2000an muncul model bisnis open access dengan biaya publikasi (APC - *article processing charge*).
+
+Dulu, pada era 1970-an, Indonesia memulai budaya publikasi melalui modus cetak dengan biaya langganan yang biasanya dihitung dari biaya pencetakan. Jadi modus penerbitannya bersifat nirlaba. Walaupun sama-sama dimulai dengan modus berlangganan, tetapi budaya publikasi di negara maju telah lama dikuasai oleh perusahaan penerbitan komersial. Alhasil, biaya berlangganannyapun menjadi sangat mahal, sehingga tidak akan mampu dibayar oleh peneliti secara pribadi. Perguruan tinggi biasanya membeli akses melalui biaya langganan secara paket.
+
+Kondisi-kondisi di atas menurut kami adalah keuntungan bagi Indonesia, ketika keuntungan bukanlah nafas awal dari penerbitan ilmiah, karena akses terbuka adalah pondasi pengembangan ilmu pengetahuan dengan semangat: 
+
+* akses terbuka sebagai pendobrak penghalang, 
+* akses terbuka sebagai pendorong inovasi, dan 
+* akses terbuka sebagai pelestari pengetahuan.
 
 # Indonesia sebagai negara dengan kanal publikasi akademik terbuka
 
-Dunia akan iri kepada peneliti Indonesia ketika mereka tahu semua jurnal Indonesia adalah jurnal OA dan mayoritas akan menerbitkan artikel mereka tanpa dipungut biaya. Di sinilah kemenangan indonesia dibanding ekosistem riset di manapun. yang dapat menyamainya hanyalah ekosistem riset Scielo di Brazil dan ekosistem riset AJOL (tanya jo havemann tentang africaxiv apakah bisa masuk ke sini) di Afrika. kesamaan dari ketiga ekosistem ini adalah dikelola oleh entitas nirlaba dengan model tata kelola nirlaba. ini justru berlawanan dengan apa yang terjadi di eropa dan belahan dunia utara (global north) pada umumnya. mereka bergerak di bawah komando entitas bisnis yang mayoritas menerbitkan makalah secara OA dengan biaya yang tidak murah. 
+Akses terbuka adalah awal dari perkembangan ilmu. Inilah cita-cita awal dari gerakan akses terbuka. Ilmu tidak akan berkembang maksimum bila akses dibatasi (_paywalled_). Kalaupun ini terjadi, maka dibutuhkan dana tambahan yang tidak sedikit untuk membuka akses tersebut dalam bentuk biaya berlangganan.
 
-tentu saja penerbitan akan membutuhkan biaya, yaitu biaya untuk infrastruktur, sumber daya manusia, dan layanan, tetapi itu semua dapat dilaksanakan secara nirlaba.
-
+Hasil riset terutama yang didanai oleh negara, sudah selayaknya dibuka seluas-luasnya untuk publik. Publik di sini bukan hanya berarti masyarakat peneliti, tetapi juga khalayak umum. Mereka sudah sepatutnya juga diberi akses terhadap hasil riset. Masyarakat awam harus dapat diedukasi dengan berbagai hasil riset tersebut. Dengan jumlah jurnal OA yang sangat banyak, ilmu pengetahuan dari para peneliti Indonesia semestinya dapat dengan leluasa sampai ke tangan publik.
+ 
 
 # Indonesia sebagai negara dengan model tata kelola publikasi akademik idaman 
 
-Berita bohong vs pembuktian akademik
+Dunia akan iri kepada peneliti Indonesia ketika mereka tahu semua jurnal Indonesia adalah jurnal OA dan mayoritas akan menerbitkan artikel mereka tanpa dipungut biaya. Di sinilah kemenangan indonesia dibanding ekosistem riset di manapun. Yang dapat menyamainya hanyalah ekosistem riset [Scielo](scielo.org) di Brazil, ekosistem penerbitan ilmiah [African Journal Online (AJOL)](https://www.ajol.info/index.php/ajol) dan [Africaxiv](https://info.africarxiv.org/) dari benua Afrika. Kesamaan dari ketiga ekosistem ini adalah dikelola oleh entitas nirlaba (mayoritas adalah perguruan tinggi, lembaga riset, dan asosiasi profesi) dengan model tata kelola nirlaba. Ini justru berlawanan dengan apa yang terjadi di eropa dan belahan dunia utara (global north) pada umumnya. Mereka bergerak di bawah komando entitas bisnis yang mayoritas menerbitkan makalah secara OA dengan biaya yang tidak murah. Tentu saja penerbitan akan membutuhkan biaya yang meliputi biaya untuk infrastruktur, sumber daya manusia, dan layanan, tetapi itu semua dapat dilaksanakan secara nirlaba, yaitu dengan cara:
 
-ada tiga hal:
-
-1. OA
-2. operasional nir laba
-3. dikelola lembaga nir laba
+* merinci biaya operasional riil,
+* memaksimumkan perangkat lunak *open source* (misal: perangkat [Open Journal System](https://pkp.sfu.ca/ojs/) yang tercatat sebagai platform yang paling banyak digunakan oleh jurnal Indonesia.), 
+* menggunakan pola berbagi sumber daya (_resource sharing_), misal: server bersama seperti [Rujukan LIPI](https://rujukan.lipi.go.id/), 
+* dikelola oleh lembaga nirlaba. Ini merupakan poin penting ketika pilihan untuk alih daya (_outsource_) bisa saja dipilih oleh para pengelola jurnal, ketika mereka dirasakan tidak mampu lagi mengelola jurnalnya. Di luar negeri, ada banyak jurnal yang awalnya dikelola oleh perguruan tinggi atau asosiasi profesi, yang kemudian [diambil alih oleh penerbit komersial](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127502).
+ 
 
 # Langkah selanjutnya
 
@@ -79,16 +73,16 @@ Dengan kondisi yang kondusif di atas, maka langkah selanjutnya yang perlu diambi
 
 3. Pemerintah melalui Kemristekbrin
 
-* Kurangi bahkan hentikan kebergantungan kepada asing
-* Arahkan anggaran ke arah hulu
-* Kembali 
+* Kurangi bahkan hentikan kebergantungan kepada asing, terutama bilamana instrumen asesmen telah pula kita miliki (misal: SNI, akreditasi laboratorium KAN, dan akreditasi jurnal ilmiah ARJUNA). 
+* Arahkan anggaran ke arah hulu, terutama infrastruktur laboratorium agar dapat menghasilkan riset yang lebih relevan dengan kebutuhan bangsa, bukan sekedar untuk memenuhi indikator pemeringkatan,
+* Memperhatikan aspek preservasi hasil riset dalam konteks luas, bukan hanya publikasi, tetapi juga data. Preservasi ini penting terutama ketika di dunia ditengarai ada banyak [jurnal lenyap](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127502), karena isu sustainabilitas. 
 
 
 3. Masyarakat 
 
 * Peningkatan kepercayaan kepada hasil riset
 * Edukasi cara mencari, menguji, dan menyebarkan informasi
-*  
+* ... 
 
 
 
