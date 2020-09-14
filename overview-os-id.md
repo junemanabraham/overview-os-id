@@ -2,8 +2,12 @@ Ringkasan sains terbuka Indonesia: pentingnya jurnal OA dalam ekosistem riset In
 ===
 
 Oleh: 
-Dasapta Erwin Irawan, Bambang Priadi, Zulidyana Dwi Rusnalasari, Lusy Tunik Muharlisiani, dan [...] penulis akan ditambahkan, kami berdua sedang menunggu masukan
-Institut Teknologi Bandung
+Dasapta Erwin Irawan[1], Bambang Priadi[1], Sandersan Onie[2], Zulidyana Dwi Rusnalasari[3], Lusy Tunik Muharlisiani[4], dan [...] penulis akan ditambahkan
+
+[1] Institut Teknologi Bandung
+[2] University of New South Wales
+[3] Universitas Narotama
+[4] Universitas Widya Kusuma Surabaya
 
 Keterangan: tulisan ini merupakan artikel pertama dari serial tiga artikel yang akan tayang di The Conversation Indonesia. 
 
@@ -72,15 +76,15 @@ Dengan kondisi yang kondusif di atas, maka langkah selanjutnya yang perlu diambi
 * Mengurangi bahkan menghilangkan motivasi prestise. Diakui atau tidak, motivasi ini selalu ada dan muncul pada setiap kegiatan riset pada semua level dosen/peneliti hingga ke jenjang tertinggi,
 * Membangun kepercayaan diri terhadap risetnya dengan meningkatkan kualitasnya, bukan sekedar mengunggulkan popularitas jurnalnya,
 * Membangun kapasitas pengarsipan dokumen riset serta diseminasinya (penyebaran informasi secara luas dengan gaya populer),
-* Untuk membangun riset yang dapat dipercaya dan dapat digunakan (*usable*), peneliti perlu melampaui kaidah-kaidah permetrikan. Para peneliti perlu berpartisipasi dalam komunikasi dalam sains. Sampai saat ini, kita paham ada banyak kendala dan tantangan dalam sistem yang sekarang ada. 
+* Untuk membangun riset yang dapat dipercaya dan dapat digunakan (*usable*), peneliti perlu melampaui kaidah-kaidah permetrikan. Para peneliti perlu berpartisipasi dalam komunikasi dalam sains. Sampai saat ini, kita paham ada banyak kendala dan tantangan dalam sistem yang sekarang ada,
+* Mendidik mahasiswa agar mampu menjalankan riset yang dapat dipercaya, sehingga dapat dimanfaatkan. Bukan sekedar mengejar produktivitas dari sisi jumlah.
 
 
 3. **Pemerintah melalui Kemristekbrin**
 
 * Sangat penting bagi pemerintah untuk menjaga kemandirian infrastruktur sains, khususnya untuk infrastruktur yang telah ada dalam jangkauan dan sejak lama telah dikelola sendiri. Ini menjadi titik awal dari pengembangan sains di masa mendatang. Untuk mencapai itu, pemerintah sangat perlu mengurangi bahkan menghentikan kebergantungan kepada asing untuk instrumen asesmen jurnal atau riset, terutama bilamana instrumen tersebut telah pula kita miliki (misal: SNI, akreditasi laboratorium KAN, dan akreditasi jurnal ilmiah [ARJUNA](http://arjuna.ristekdikti.go.id/files/info/Panduan_Editor_Jurnal_Ilmiah.pdf)),
 * Mengarahkan anggaran riset lebih ke arah hulu, terutama infrastruktur laboratorium agar dapat menghasilkan riset yang lebih relevan dengan kebutuhan bangsa, bukan sekedar untuk memenuhi indikator pemeringkatan,
-* Memperhatikan aspek preservasi hasil riset dalam konteks luas, bukan hanya publikasi, tetapi juga data. Preservasi ini penting terutama ketika di dunia ditengarai ada banyak [jurnal lenyap](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127502), karena isu sustainabilitas.
-*  
+* Memperhatikan aspek preservasi hasil riset dalam konteks luas, bukan hanya publikasi, tetapi juga data. Preservasi ini penting terutama ketika di dunia ditengarai ada banyak [jurnal lenyap](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127502), karena isu keberlanjutan. 
 
 
 3. **Masyarakat** 
