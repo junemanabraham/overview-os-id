@@ -2,7 +2,7 @@ Ringkasan sains terbuka Indonesia: pentingnya jurnal OA dalam ekosistem riset In
 ===
 
 Oleh: 
-Dasapta Erwin Irawan, Bambang Priadi, dan [...] penulis akan ditambahkan, kami berdua sedang menunggu masukan
+Dasapta Erwin Irawan, Bambang Priadi, Zulidyana Dwi Rusnalasari, Lusy Tunik Muharlisiani, dan [...] penulis akan ditambahkan, kami berdua sedang menunggu masukan
 Institut Teknologi Bandung
 
 Keterangan: tulisan ini merupakan artikel pertama dari serial tiga artikel yang akan tayang di The Conversation Indonesia. 
@@ -24,9 +24,6 @@ Jumlah jurnal akses terbuka (_open access_/OA) di Indonesia adalah nomor 1 di du
 
 Modus penerbitan OA adalah "lawan" dari modus penerbitan non OA. Pada modus non OA, pembaca harus berlangganan atau membeli akses jurnal sebelum dapat mengunduh makalah yang dibutuhkan. [Biaya langganan ini biasanya telah dibayarkan oleh perguruan tinggi atau lembaga riset](https://rinarxiv.pubpub.org/pub/6idoxl1e/release/9). 
 
-
-
-
 # Indonesia sebagai negara dengan kesadaran akses terbuka 
 
 Kesadaran akses terbuka ini merupakan salah satu modal utama bagi ekosistem riset, terutama ketika, mitra kita di negara maju memulai budaya publikasinya dengan model non OA berbasis biaya langganan *subscription-based*. Kewajiban akses terbuka ini tercermin secara eksplisit dalam [UU 11/2019](https://peraturan.bpk.go.id/Home/Details/117023/uu-no-11-tahun-2019) tentang Sistem Nasional Ilmu Pengetahuan dan Teknologi (UU Sisnasiptek), khususnya pada Pasal 2 butir h "Sisnas iptek berasaskan (salah satunya) aksesibilitas". Aksesibilitas ini yang kemudian menjadi dasar agar iptek dapat dimanfaatkan untuk kemanusiaan, keadilan, dan kemaslahatan. Aksesibilitas ini pulalah yang akan mendukung kebenaran ilmiah dan transparansi. Pada pasal 3 dijelaskan bahwa tujuan dari sisnasiptek adalah untuk menghasilkan invensi dan inovasi. Percepatan invensi dan inovasi tidak akan tercapai dengan ketertutupan, misal: penerbitan hasil riset melalui jurnal non OA atau dengan sistem paten. Pada pasal-pasal lainnya banyak ketentuan yang secara eksplisit dan implisit mewajibkan adanya keterbukaan akses, yang salah satunya dengan menerbitkan makalah ke jurnal OA. Akses juga menjadi semangat utama ketika PBB mencanangkan Tujuan Pembangunan Berkelanjutan (Sustainable Development Goals/SDG) dan [Global Open Access Portal (GOAP)](http://www.unesco.org/new/en/communication-and-information/portals-and-platforms/goap/), juga ketika Lembaga Education International (EI) meluncurkan gerakan [Demokratisasi Pengetahuan](https://eiie.sharepoint.com/sites/eiwebsite/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Feiwebsite%2FShared%20Documents%2FPublic%20Links%2FWebDocs%2F2018%5FEIResearch%5FElsevier%5Ffinal%5FEN%2Epdf&parent=%2Fsites%2Feiwebsite%2FShared%20Documents%2FPublic%20Links%2FWebDocs&p=true&originalPath=aHR0cHM6Ly9laWllLnNoYXJlcG9pbnQuY29tLzpiOi9zL2Vpd2Vic2l0ZS9FVThHcUpveU1sbEttUW9oVXdPZzNNSUJmcVF0Z25IS2lVdHJuaC1SS2Vlc0lnP3J0aW1lPWlST2RuRHBZMkVn) ([translasi Bahasa Indonesia](https://osf.io/fjm37/)). 
@@ -44,6 +41,8 @@ Kondisi-kondisi di atas menurut kami memiliki nilai positif bagi Indonesia, yait
 Akses terbuka adalah awal dari perkembangan ilmu. Inilah cita-cita awal dari gerakan akses terbuka. Ilmu tidak akan berkembang maksimum bila akses dibatasi (_paywalled_). Kalaupun ini terjadi, maka dibutuhkan dana tambahan yang tidak sedikit untuk membuka akses tersebut dalam bentuk biaya berlangganan.
 
 Hasil riset terutama yang didanai oleh negara, sudah selayaknya dibuka seluas-luasnya untuk publik. Publik di sini bukan hanya berarti masyarakat peneliti, tetapi juga khalayak umum. Mereka sudah sepatutnya juga diberi akses terhadap hasil riset. Masyarakat awam harus dapat diedukasi dengan berbagai hasil riset tersebut. Dengan jumlah jurnal OA yang sangat banyak, ilmu pengetahuan dari para peneliti Indonesia semestinya dapat dengan leluasa sampai ke tangan publik.
+
+Tidak hanya dalam lingkup publikasi riset, konsep OA juga akan sangat bermanfaat ketika diaplikasikan untuk pendidikan. Para pengajar perguruan tinggi di Indonesia perlu juga mengetahui perkembangan *open access educational resources* seperti yang disampaikan oleh [Khan Academy](https://www.khanacademy.org/) dan [OER Commons](https://www.oercommons.org/).
 
 
 # Indonesia sebagai negara dengan model tata kelola publikasi akademik idaman 
@@ -64,14 +63,14 @@ Dengan kondisi yang kondusif di atas, maka langkah selanjutnya yang perlu diambi
 	- perlu membangun kepercayaan diri dengan membangun tata kelola jurnal akademik yang lebih kredibel, 
 	- perlu menetapkan panduan pengelolaan jurnal yang generik dan baku pada level nasional (ARJUNA) maupun level internasional ([COPE](https://publicationethics.org/)),
 	- perlu membangun diversifikasi: 
-		- **diversifikasi jenis makalah**. di dunia ini ada banyak jenis artikel yang dapat diakomodasi dalam sistem publikasi, bukan hanya jenis original research yang merupakan artikel sebagai hasil akhir riset; 
-		- **diversifikasi kanal diseminasi**. makalah ilmiah memiliki segmen pembaca yang sempit, yaitu kelompok akademik. bahasa yang digunakan pasti tidak semua dikenal oleh masyarakat dari berbagai golongan. oleh karenanya pengelola jurnal perlu kreatif dalam mendiseminasikan berbagai makalah yang telah terbit. diseminasi di sini kami artikan sebagai penyebaran informasi ke segmen pembaca yang lebih luas. peran pengelola jurnal sangat penting di sini, karena peneliti seringkali berhenti perannya setelah makalah ilmiah terbit. makalah ilmiah adalah medium publikasi dalam arti sempit bukanlah sebuah instrumen untuk diseminasi pengetahuan. di dunia juga dikenal berbagai cara untuk menyampaikan informasi dengan cara lebih populer, bukan hanya dalam format teks, tetapi juga format audio dan video. , dan 
-		- **diversifikasi jejaring**. saat ini kami masih menengarai pergaulan pengelola jurnal masih bersifat nasional. internasionalisasi masih hanya dimaknai sebagai terindeks pangkalan data asing. berjejaring maknanya jauh lebih luas dari itu. di dunia dikenal banyak komunitas atau organisasi penerbit akademik, seperti [DOAJ](https://doaj.org/) dan [OASPA](https://oaspa.org/). pengelola jurnal indonesia dapat bergabung dengan organisasi-organisasi sejenis untuk lebih menyuarakan hasil riset indonesia. komunikasi akan terjalin dan informasi akan tersebar lebih luas ketika kita menjalin komunikasi yang baik. berbagai perangkat media sosial saat ini sudah meledak jauh dibanding 30 tahun yang lalu. berjejaring saat ini hanya terpisahkan oleh satu klik saja (*one click away*). jadi bila dapat dilakukan dengan mudah, kenapa tidak dilakukan. 
+		- **Diversifikasi jenis makalah**. Di dunia ini ada banyak jenis artikel yang dapat diakomodasi dalam sistem publikasi, bukan hanya jenis *original research* yang merupakan artikel sebagai hasil akhir riset; 
+		- **Diversifikasi kanal diseminasi**. Makalah ilmiah memiliki segmen pembaca yang sempit, yaitu kelompok akademik. Bahasa yang digunakan pasti tidak semua dikenal oleh masyarakat dari berbagai golongan. Oleh karenanya pengelola jurnal perlu kreatif dalam mendiseminasikan berbagai makalah yang telah terbit. Diseminasi di sini kami artikan sebagai penyebaran informasi ke segmen pembaca yang lebih luas. Peran pengelola jurnal sangat penting di sini, karena peneliti seringkali berhenti perannya setelah makalah ilmiah terbit. Makalah ilmiah adalah medium publikasi dalam arti sempit bukanlah sebuah instrumen untuk diseminasi pengetahuan. Di dunia juga dikenal berbagai cara untuk menyampaikan informasi dengan cara lebih populer, bukan hanya dalam format teks, tetapi juga format audio dan video;
+		- **Diversifikasi jejaring**. Saat ini kami masih menengarai pergaulan pengelola jurnal masih bersifat nasional. internasionalisasi masih hanya dimaknai sebagai terindeks pangkalan data asing. Berjejaring maknanya jauh lebih luas dari itu. Di dunia dikenal banyak komunitas atau organisasi penerbit akademik, seperti [DOAJ](https://doaj.org/), [OASPA](https://oaspa.org/), dan [Open Access OAPEN](https://www.oapen.org/). [Relawan Jurnal Indonesia (RJI)](http://relawanjurnal.id/) sebagai asosiasi pengelola jurnal Indonesia perlu mendorong agar kolaborasi dan internasional ini dapat terjadi. Pengelola jurnal Indonesia dapat bergabung dengan organisasi-organisasi sejenis untuk lebih menyuarakan hasil riset indonesia. Komunikasi akan terjalin dan informasi akan tersebar lebih luas ketika kita menjalin komunikasi yang baik. berbagai perangkat media sosial saat ini sudah meledak jauh dibanding 30 tahun yang lalu. berjejaring saat ini hanya terpisahkan oleh satu klik saja (*one click away*). Jadi bila dapat dilakukan dengan mudah, kenapa tidak dilakukan. 
 
 2. **Dosen/peneliti**
 
-* Mengurangi bahkan menghilangkan motivasi prestise,
-* Membangun kepercayaan diri terhadap risetnya dengan meningkatkan kualitasnya,
+* Mengurangi bahkan menghilangkan motivasi prestise. Diakui atau tidak, motivasi ini selalu ada dan muncul pada setiap kegiatan riset pada semua level dosen/peneliti hingga ke jenjang tertinggi,
+* Membangun kepercayaan diri terhadap risetnya dengan meningkatkan kualitasnya, bukan sekedar mengunggulkan popularitas jurnalnya,
 * Membangun kapasitas pengarsipan dokumen riset serta diseminasinya (penyebaran informasi secara luas dengan gaya populer).
 
 
