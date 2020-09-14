@@ -77,7 +77,7 @@ Dengan kondisi yang kondusif di atas, maka langkah selanjutnya yang perlu diambi
 * Membangun kepercayaan diri terhadap risetnya dengan meningkatkan kualitasnya, bukan sekedar mengunggulkan popularitas jurnalnya,
 * Membangun kapasitas pengarsipan dokumen riset serta diseminasinya (penyebaran informasi secara luas dengan gaya populer),
 * Untuk membangun riset yang dapat dipercaya dan dapat digunakan (*usable*), peneliti perlu melampaui kaidah-kaidah permetrikan. Para peneliti perlu berpartisipasi dalam komunikasi dalam sains. Sampai saat ini, kita paham ada banyak kendala dan tantangan dalam sistem yang sekarang ada,
-* Mendidik mahasiswa agar mampu menjalankan riset yang dapat dipercaya, sehingga dapat dimanfaatkan. Bukan sekedar mengejar produktivitas dari sisi jumlah.
+* Mendidik mahasiswa agar mampu menjalankan riset yang dapat dipercaya, sehingga dapat dimanfaatkan. Bukan sekedar mengejar produktivitas dari sisi jumlah dan pilihan indikator reputasi yang penuh bias.
 
 
 3. **Pemerintah melalui Kemristekbrin**
@@ -90,11 +90,13 @@ Dengan kondisi yang kondusif di atas, maka langkah selanjutnya yang perlu diambi
 3. **Masyarakat** 
 
 * Peningkatan kepercayaan kepada hasil riset dalam negeri,
-* Edukasi cara mencari, menguji, dan menyebarkan informasi ilmiah secara lebih bertanggungjawab.
+* Edukasi cara mencari, menguji, dan menyebarkan informasi ilmiah secara lebih bertanggungjawab,
+* Meningkatkan kesadaran pubik bahwa masyarakat adalah objek sekaligus subjek yang menjadi pertimbangan utama dan pertama dalam melakukan riset, sehingga menumbuhkan kepedulian masyarakat terhadap keterbukaan sains, serta menghilangkan kesan eksklusif atau "menara gading" institusi periset.
 
 
+# Penutup
 
-
+Dari keempat pemangku kepentingan di atas, kita dapat menumbuhkan harapan bahwa Indonesia pada saatnya nanti tidak hanya "menang" secara jumlah sebagai negara penghasil jurnal OA terbanyak, namun juga sebagai negara yang menjadi pelopor keterbukaan sains, sehingga pada prakteknya pemanfaatan hasil riset yang terbuka benar-benar menjadi sumber kemaslahatan bangsa.	
 
 
 
