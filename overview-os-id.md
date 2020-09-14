@@ -6,7 +6,7 @@ Dasapta Erwin Irawan[1], Bambang Priadi[1], Sandersan Onie[2], Zulidyana Dwi Rus
 
 [1] Institut Teknologi Bandung
 [2] University of New South Wales
-[3] Universitas Narotama
+[3] Relawan Jurnal Indonesia
 [4] Universitas Widya Kusuma Surabaya
 
 Keterangan: tulisan ini merupakan artikel pertama dari serial tiga artikel yang akan tayang di The Conversation Indonesia. 
