@@ -2,7 +2,7 @@ Repositori ini menyimpan draft naskah yang akan dikirimkan ke The Conversation I
 
 Ditulis oleh: 
 
-Dasapta Erwin Irawan[1], Bambang Priadi[1], Sandersan Onie[2], Zulidyana Dwi Rusnalasari[3], Lusy Tunik Muharlisiani[4], dan [...] penulis akan ditambahkan
+[Dasapta Erwin Irawan](https://orcid.org/0000-0002-1526-0863)[1], [Bambang Priadi](https://scholar.google.com/citations?hl=en&user=v15Nn54AAAAJ&view_op=list_works&sortby=pubdate)[1], [Sandersan Onie](https://orcid.org/0000-0003-2147-8102)[2], [Zulidyana Dwi Rusnalasari](https://orcid.org/0000-0002-2611-7288)[3], L[usy Tunik Muharlisiani](https://orcid.org/0000-0001-9147-4321)[4], dan [...] penulis akan ditambahkan
 
 [1] Institut Teknologi Bandung
 [2] University of New South Wales
