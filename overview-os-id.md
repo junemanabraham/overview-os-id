@@ -2,12 +2,13 @@ Ringkasan sains terbuka Indonesia: pentingnya jurnal OA dalam ekosistem riset In
 ===
 
 Oleh: 
-Dasapta Erwin Irawan[1], Bambang Priadi[1], Sandersan Onie[2], Zulidyana Dwi Rusnalasari[3], Lusy Tunik Muharlisiani[4], dan [...] penulis akan ditambahkan
+Dasapta Erwin Irawan[1], Bambang Priadi[1], Sandersan Onie[2], Zulidyana Dwi Rusnalasari[3], Lusy Tunik Muharlisiani[4], Juneman Abraham [5] dan [...] penulis akan ditambahkan
 
 [1] Institut Teknologi Bandung
 [2] University of New South Wales
 [3] Relawan Jurnal Indonesia
 [4] Universitas Widya Kusuma Surabaya
+[5] Himpunan Psikologi Indonesia
 
 
 # Pembukaan
